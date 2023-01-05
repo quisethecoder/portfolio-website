@@ -209,6 +209,8 @@ a.ref:hover, a.ref:active{
 }
 
 
+/* project cards  */
+
 .card{
     background: rgb(50, 51, 70);
     box-shadow: 20px;
@@ -220,5 +222,27 @@ a.ref:hover, a.ref:active{
 }
 
 .web-link{
-    margin-left: 48px;
+   
+}
+
+.card-styling-one{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.card-styling-two{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+.lan-used{
+    color: rgb(124, 197, 106);
+    font-size: 20px;
 }
