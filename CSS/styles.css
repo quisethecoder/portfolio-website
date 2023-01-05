@@ -127,7 +127,7 @@ p {
 
 .hob-head{
     margin-right: 4rem;
-    margin-top: 150px;
+    margin-top: 125px;
     margin-bottom: 50px;
     text-align: center;
 }
@@ -228,7 +228,7 @@ a.ref:hover, a.ref:active{
 .card-styling-one{
     text-align: center;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -236,7 +236,7 @@ a.ref:hover, a.ref:active{
 .card-styling-two{
     text-align: center;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-left: 100px;
     margin-right: 100px;
     margin-top: 50px;
