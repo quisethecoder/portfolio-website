@@ -213,16 +213,12 @@ a.ref:hover, a.ref:active{
 
 .card{
     background: rgb(50, 51, 70);
-    box-shadow: 20px;
+    
 }
 
 .card-title{
     color: white;
     text-align: center;
-}
-
-.web-link{
-   
 }
 
 .card-styling-one{
@@ -240,6 +236,10 @@ a.ref:hover, a.ref:active{
     margin-left: 100px;
     margin-right: 100px;
     margin-top: 50px;
+}
+
+.pj-pic{
+    height: 175px;
 }
 
 .lan-used{

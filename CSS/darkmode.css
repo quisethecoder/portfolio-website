@@ -206,5 +206,43 @@ a.ref:link, a.ref:visited{
 }
 
 a.ref:hover, a.ref:active{
-    background-color: rgb(65, 77, 189);
+    background-color: rgb(17, 38, 226);
+}
+
+/* project cards  */
+
+.card{
+    background: rgb(33, 40, 190);
+    
+}
+
+.card-title{
+    color: rgb(12, 9, 9);
+    text-align: center;
+}
+
+.card-styling-one{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.card-styling-two{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+.pj-pic{
+    height: 175px;
+}
+
+.lan-used{
+    color: rgb(124, 197, 106);
+    font-size: 20px;
 }
