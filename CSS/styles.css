@@ -209,3 +209,16 @@ a.ref:hover, a.ref:active{
 }
 
 
+.card{
+    background: rgb(50, 51, 70);
+    box-shadow: 20px;
+}
+
+.card-title{
+    color: white;
+    text-align: center;
+}
+
+.web-link{
+    margin-left: 48px;
+}
