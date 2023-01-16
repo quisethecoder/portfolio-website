@@ -248,3 +248,22 @@ a.ref:hover, a.ref:active{
     color: rgb(124, 197, 106);
     font-size: 20px;
 }
+
+
+.soon{
+    color: red;
+    font-style: italic;
+}
+
+.blur{
+    text-shadow: 0 0 8px rgb(238, 238, 238);
+    color: transparent;
+}
+
+.blur-pic{
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+
+
+    height: 100%;
+}
