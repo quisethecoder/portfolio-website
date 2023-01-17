@@ -63,7 +63,7 @@ p {
 
 .skills-word{
     font-size: 75px;
-    margin: 100px 185px 20px;
+    margin: 100px 0px 20px 140px;
     
 }
 
@@ -117,7 +117,7 @@ p {
 /* project section */
 
 .proj-head{
-   margin-left: 10rem;
+   margin-left: 9rem;
    margin-bottom: 2rem;
    margin-top: 12rem;
    font-size: 80px;
