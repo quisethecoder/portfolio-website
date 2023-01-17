@@ -29,7 +29,16 @@ gsap.to(".skills-word",{
         trigger: ".skills-word",
         toggleActions: "restart none none reset"
     },
-    x: -20,
+    x: 20,
+    duration: 3
+});
+
+gsap.to(".proj-head",{
+    scrollTrigger:{
+        trigger: ".proj-head",
+        toggleActions: "restart none none reset"
+    },
+    x: 20,
     duration: 3
 });
 
