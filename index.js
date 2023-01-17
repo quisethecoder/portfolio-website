@@ -42,6 +42,15 @@ gsap.to(".proj-head",{
     duration: 3
 });
 
+gsap.to(".about",{
+    scrollTrigger:{
+        trigger: ".about",
+        toggleActions: "restart none none reset"
+    },
+    x: 20,
+    duration: 3
+});
+
 gsap.to(".logo",{
     scrollTrigger:{
         trigger: ".logo",
