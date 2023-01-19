@@ -57,7 +57,7 @@ gsap.to(".logo",{
         toggleActions: "restart none none reset"
     },
     x: -20,
-    duration: 3,
+    duration: 1,
     rotation: 360
 });
 
@@ -67,7 +67,7 @@ gsap.to(".logo-b",{
         toggleActions: "restart none none reset"
     },
     x: -20,
-    duration: 3,
+    duration: 1,
     rotation: -360
 });
 
@@ -77,28 +77,28 @@ gsap.to(".logos",{
         toggleActions: "restart none none reset"
     },
     x: -20,
-    duration: 3,
+    duration: 1,
     rotation: 360
 });
 
 
-gsap.to(".img-with-text",{
-    scrollTrigger:{
-        trigger: ".img-with-text",
-        toggleActions: "restart none none reset"
-    },
-    x: -20,
-    duration: 3
-});
+// gsap.to(".img-with-text",{
+//     scrollTrigger:{
+//         trigger: ".img-with-text",
+//         toggleActions: "restart none none reset"
+//     },
+//     x: -20,
+//     duration: 2
+// });
 
-gsap.to(".img-sec-two",{
-    scrollTrigger:{
-        trigger: ".img-with-text",
-        toggleActions: "restart none none reset"
-    },
-    x: 10,
-    duration: 3
-});
+// gsap.to(".img-sec-two",{
+//     scrollTrigger:{
+//         trigger: ".img-with-text",
+//         toggleActions: "restart none none reset"
+//     },
+//     x: 10,
+//     duration: 2
+// });
 
 document.getElementById('dmbutton').addEventListener('click', function() {
     const css = document.getElementById('cssfile');
