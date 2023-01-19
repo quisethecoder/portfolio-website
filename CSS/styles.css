@@ -195,6 +195,8 @@ p {
     background-color: rgb(10, 42, 224);
     padding-top: 3rem;
     padding-bottom: 5rem;
+    
+    width: 100%;
 }
 
 a.ref:link, a.ref:visited{
