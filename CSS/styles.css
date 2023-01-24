@@ -140,7 +140,7 @@ p {
 
 .img-with-text{
     text-align: center;
-    margin-right: 1rem;
+    margin-right: 2rem;
 }
 
 .img-sec-two{
@@ -148,31 +148,21 @@ p {
     align-items: center;
     justify-content: center;
     text-align: center;
-}
-
-.basket{
-    margin-right: 2rem;
+    margin-top: 58px;
+    margin-bottom: 58px;
 }
 
 
 .hob-ind-two{
     width: 70%;
     border-radius: 2rem;
-    
 }
 
-
-/* .hob-ind-three{
-    width: 150%;
+.hob-ind-idv{
+    width: 60%;
     border-radius: 2rem;
-    
-}
 
-.more{
-    padding-left: 15rem;
-    align-items: center;
-    text-align: end;
-} */
+}
 
 .text{
     font-family: 'Merriweather';

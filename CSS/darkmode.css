@@ -151,10 +151,6 @@ p {
     text-align: center;
 }
 
-.basket{
-    margin-right: 2rem;
-}
-
 
 .hob-ind-two{
     width: 70%;
@@ -162,19 +158,6 @@ p {
     
 }
 
-
-
-/* .hob-ind-three{
-    width: 150%;
-    border-radius: 2rem;
-    
-}
-
-.more{
-    padding-left: 15rem;
-    align-items: center;
-    text-align: end;
-} */
 
 .text{
     font-family: 'Merriweather';
