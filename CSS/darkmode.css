@@ -141,7 +141,6 @@ p {
 
 .img-with-text{
     text-align: center;
-    margin-right: 1rem;
 }
 
 .img-sec-two{
@@ -149,15 +148,21 @@ p {
     align-items: center;
     justify-content: center;
     text-align: center;
+    margin-top: 58px;
+    margin-bottom: 58px;
 }
 
 
 .hob-ind-two{
     width: 70%;
     border-radius: 2rem;
-    
+    margin-left: 2rem;
 }
 
+.hob-ind-idv{
+    width: 60%;
+    border-radius: 2rem;
+}
 
 .text{
     font-family: 'Merriweather';

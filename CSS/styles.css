@@ -140,7 +140,6 @@ p {
 
 .img-with-text{
     text-align: center;
-    margin-right: 2rem;
 }
 
 .img-sec-two{
@@ -156,6 +155,7 @@ p {
 .hob-ind-two{
     width: 70%;
     border-radius: 2rem;
+    margin-left: 2rem;
 }
 
 .hob-ind-idv{
