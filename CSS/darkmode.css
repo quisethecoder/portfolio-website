@@ -25,6 +25,7 @@ p {
 .mode{
     background-color: rgb(144, 138, 230);
     border-radius: 50px;
+    font-family: 'Merriweather', serif;
 }
 
 .intro{

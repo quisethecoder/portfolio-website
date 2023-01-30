@@ -22,9 +22,11 @@ p {
 }
 
 
+/* Mode is the dark/light button styling */
 .mode{
     background-color: rgb(25, 13, 199);
     border-radius: 50px;
+    font-family: 'Merriweather', serif;
 }
 
 .intro{
